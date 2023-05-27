@@ -5,7 +5,7 @@
 
 # Hi there 👋
 
-*I am a 21 year old mexican guy, a homebody who takes care of 4 pets. I am a student of Mechatronics Engineering at UPIITA - IPN, who likes to exercise, play soccer and videogames occasionally. Native Spanish speaker, with studies in English, interested in other languages. I like to investigate, do projects, share my knowledge and acquired experiences. Curious, introverted in new spaces, dedicated and loves to learn new topics*
+*I am a 21 year old mexican guy, a homebody who takes care of 3 pets. I am a student of Mechatronics Engineering at UPIITA - IPN, who likes to exercise, play soccer and videogames occasionally. Native Spanish speaker, with studies in English, interested in other languages. I like to investigate, do projects, share my knowledge and acquired experiences. Curious, introverted in new spaces, dedicated and loves to learn new topics*
 
 ## Workin' On
 <div align="center">
