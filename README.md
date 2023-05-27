@@ -76,6 +76,11 @@ Diploma Courses CONDUCEF
 <br /> <strong>⛥</strong>English language certificate B2, CEFR (2019)
 <br /> <strong>⛥</strong>Recognition for The Best Technical Letter (2019)</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEmmanuelVG&layout=compact&langs_count=8">
+</p>
+
+  
 </td>
 </tr>
 </tbody>
