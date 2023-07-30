@@ -81,7 +81,11 @@ Diploma Courses CONDUCEF
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEmmanuelVG&layout=compact&langs_count=8">
 </p>
 
-  
+<p align="center">
+  <a title="J.E.V.G License" href="[https://ioana-alexandru.com/about/logos/alphamlsa.png](https://i0.wp.com/i.creativecommons.org/l/by-nc-sa/4.0/88x31.png?w=640&ssl=1)" target="_blank"><img src="https://i0.wp.com/i.creativecommons.org/l/by-nc-sa/4.0/88x31.png?w=640&ssl=1"  width="150" height="50"></a>
+</p>
+
+
 </td>
 </tr>
 </tbody>
