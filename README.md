@@ -12,7 +12,7 @@
 <a title="Bonzopedia.com" href="https://bonzopedia.com/" target="_blank"><img src="https://github.com/JoseEmmanuelVG/My/blob/main/Bonzopedia%20By%20JEVG.jpg"  width="200" height="200"></a>
 <a title="Member Of Microsoft Student Ambassador" href="https://studentambassadors.microsoft.com/" target="_blank"><img src="https://ioana-alexandru.com/about/logos/alphamlsa.png"  width="200" height="200"></a>
 <a title="Studying to" href="https://www.isc2.org/Training/Self-Study-Resources/CC" target="_blank"><img src="https://www.isc2.org/-/media/ISC2/ISC2-Icons/0-current-square-cert-logos/CC-Square.ashx?h=131&w=131&la=en&hash=FDC89F9EA57CA6E4E8F6FC8CE66698B78B8E18C2"  width="200" height="200"></a>
-  <a title="Developing" href="https://www.paiy.app/" target="_blank"><img src="https://github.com/JoseEmmanuelVG/My/blob/main/NaltonPaiyApp.jpg"  width="200" height="200"></a>
+  <a title="Developing" href="https:https://github.com/bancambios/PaiyApp-Hackaton-Etherfuse" target="_blank"><img src="https://github.com/JoseEmmanuelVG/My/blob/main/NaltonPaiyApp.jpg"  width="200" height="200"></a>
 </div>
 
 ### SKILLS 
