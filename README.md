@@ -13,8 +13,7 @@
 <a title="Member Of Microsoft Student Ambassador" href="https://studentambassadors.microsoft.com/" target="_blank"><img src="https://ioana-alexandru.com/about/logos/alphamlsa.png"  width="200" height="200"></a>
 <a title="Studying to" href="https://www.isc2.org/" target="_blank"><img src="https://media.isc2.org/-/jssmedia/Project/ISC2/Main/Components/Product-Masthead/Badge-CC-black.png?h=880&iar=0&w=880&rev=25d7105d73c74ad799f8285bbc3492a8&hash=927CA1D1A552DA1AE05A58324D33CE49&mw=1920"  width="200" height="200"></a>
   
-  <a title="Developing" href="https://github.com/bancambios/PaiyApp-Hackaton-Etherfuse" target="_blank"><img src="https://raw.githubusercontent.com/JoseEmmanuelVG/JoseEmmanuelVG/main/images/Nalton_Solana_JEVG.png"  width="100" height="200">
-  <a title="Developing" href="https://github.com/bancambios/PaiyApp-Hackaton-Etherfuse" target="_blank"><img src="https://raw.githubusercontent.com/JoseEmmanuelVG/JoseEmmanuelVG/main/images/Nalton_Xrp_JEVG.png"  width="100" height="200"></a>
+  <a title="Developing" href="https://github.com/bancambios/PaiyApp-Hackaton-Etherfuse" target="_blank"><img src="https://raw.githubusercontent.com/JoseEmmanuelVG/JoseEmmanuelVG/main/images/Nalton_Solana_JEVG.png"  width="100" height="200"><a title="Developing" href="https://github.com/JoseEmmanuelVG/NaltonpAIy_RippleCBDC_Innovate" target="_blank"><img src="https://raw.githubusercontent.com/JoseEmmanuelVG/JoseEmmanuelVG/main/images/Nalton_Xrp_JEVG.png"  width="100" height="200"></a>
 </div>
 
 ### SKILLS 
