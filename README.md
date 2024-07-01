@@ -35,7 +35,7 @@
   </td>
   
   <td width="356">
- <br /> <strong>General</strong>: HTML, CSS, node.js, SQL - MySQL, Git.  
+ <br /> <strong>General</strong>: HTML, CSS, node.js, SQL - MySQL, Git, Dash, OpenCV.  
  <br /> <strong>Platforms: </strong>GitHub, Azure, WordPress.  
  <br /> <strong>Proyects Design: </strong>Microsoft 365, GIMP, Canva.  
  <br /> <strong>IDE knowledge:</strong> NetBeans, MikroC, Visual Studio Code, Matlab. 
