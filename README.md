@@ -14,7 +14,9 @@
 <a title="Studying Semester 1 AWS Academy Introduction to Cloud" href="https://awsacademy.instructure.com/login/canvas" target="_blank"><img src="https://github.com/user-attachments/assets/d57ba298-169f-437b-9ef3-07ce7318abd3"  width="200" height="200"></a> 
   
 <a title="Studying to" href="https://www.isc2.org/" target="_blank"><img src="https://media.isc2.org/-/jssmedia/Project/ISC2/Main/Components/Product-Masthead/Badge-CC-black.png?h=880&iar=0&w=880&rev=25d7105d73c74ad799f8285bbc3492a8&hash=927CA1D1A552DA1AE05A58324D33CE49&mw=1920"  width="200" height="200"></a>
-<a title="Developing" href="https://github.com/bancambios/PaiyApp-Hackaton-Etherfuse" target="_blank"><img src="https://raw.githubusercontent.com/JoseEmmanuelVG/JoseEmmanuelVG/main/images/Nalton_Solana_JEVG.png"  width="100" height="200"><a title="Developing" href="https://github.com/JoseEmmanuelVG/NaltonpAIy_RippleCBDC_Innovate" target="_blank"><img src="https://raw.githubusercontent.com/JoseEmmanuelVG/JoseEmmanuelVG/main/images/Nalton_Xrp_JEVG.png"  width="100" height="200"></a>
+<a title="Developing Solana" href="https://github.com/bancambios/PaiyApp-Hackaton-Etherfuse" target="_blank"><img src="https://raw.githubusercontent.com/JoseEmmanuelVG/JoseEmmanuelVG/main/images/Nalton_Solana_JEVG.png"  width="100" height="200"><a title="Developing XRP" href="https://github.com/JoseEmmanuelVG/NaltonpAIy_RippleCBDC_Innovate" target="_blank"><img src="https://raw.githubusercontent.com/JoseEmmanuelVG/JoseEmmanuelVG/main/images/Nalton_Xrp_JEVG.png"  width="100" height="200"></a>
+<a title="Developing Ethereum" href="https://devpost.com/software/gubbi-pay" target="_blank"><img src="https://github.com/user-attachments/assets/ca95923a-ee95-4677-87f4-3578370f5b26"  width="100" height="200"><a title="Developing Base" href="https://devfolio.co/projects/gubbi-app-542e" target="_blank"><img src="https://github.com/user-attachments/assets/4d06336c-cb93-4a6b-8f81-7dd4ec495c24"  width="100" height="200"></a>
+
 </div>
 
 ## Practical Repositories
