@@ -19,6 +19,8 @@
 
 </div>
 
+------
+
 ## Practical Repositories
 Explore some of the projects and exercises I've worked on during my Mechatronics studies. Click on the links to view the repositories:
 
@@ -95,6 +97,31 @@ Explore some of the projects and exercises I've worked on during my Mechatronics
   </tr>
 </table>
 </div>
+
+
+## 📚 Paper Publications
+
+Explore my contributions to the field through published research and conference papers:
+
+### Synthetic EEG Signal Generator of Morphologies Associated with Epileptogenic Events
+
+**Type**: Conference Paper  
+- **Publication Date**: October 23, 2024  
+- **DOI**: [10.1109/CCE62852.2024.10770922](https://doi.org/10.1109/CCE62852.2024.10770922)  
+  
+**Type**: Journal Article  
+- **Journal**: [Research in Computing Science](https://www.rcs.cic.ipn.mx/2024_153_5/)  
+- **ISSN**: 1870-4069  
+- **Country of Publication**: Mexico  
+
+To learn more about the project and access detailed documentation, visit the dedicated project page:  
+🔗 [Synthetic EEG Generator Project](https://joseemmanuelvg.github.io/Synthetic_EEG_Generator_With_Epileptogenic_Events-JEVG/)
+
+
+
+------
+
+
 
 ### Skills 
 
