@@ -5,7 +5,7 @@
 
 # Hi there 👋
 
-*I am a 23-year-old Mexican guy, a homebody who takes care of 3 pets. I am a student of Mechatronics Engineering at UPIITA - IPN, who likes to exercise, play soccer, and occasionally play video games. Native Spanish speaker, with studies in English, interested in other languages. I like to investigate, do projects, share my knowledge and acquired experiences. Curious, introverted in new spaces, dedicated, and loves to learn new topics.*
+*I am a 24-year-old Mexican guy, a homebody who takes care of 3 pets. Master’s Student in Applied AI at ITESM | Graduated in Mechatronics Engineering at IPN - UPIITA, who likes to exercise, play soccer, and occasionally play video games. Native Spanish speaker, with studies in English, interested in other languages. I like to investigate, do projects, share my knowledge and acquired experiences. Curious, introverted in new spaces, dedicated, and loves to learn new topics.*
 
 ## Workin' On
 <div align="center">
