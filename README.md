@@ -13,7 +13,7 @@
 <a title="Member Of Microsoft Student Ambassador" href="https://studentambassadors.microsoft.com/" target="_blank"><img src="https://ioana-alexandru.com/about/logos/alphamlsa.png"  width="200" height="200"></a>
 <a title="Studying Semester 1 AWS Academy Introduction to Cloud" href="https://awsacademy.instructure.com/login/canvas" target="_blank"><img src="https://github.com/user-attachments/assets/d57ba298-169f-437b-9ef3-07ce7318abd3"  width="200" height="200"></a> 
 <br><br>
-<a title="Studying MNA – Applied AI Master's at ITESM" href="https://tec.mx/es/maestria-en-inteligencia-artificial-aplicada" target="_blank">
+<a title="Studying MNA – Applied AI Master's at ITESM" href="https://maestriasydiplomados.tec.mx/posgrados/maestria-en-inteligencia-artificial-aplicada" target="_blank">
   <img src="https://tse3.mm.bing.net/th/id/OIP.3rJici018lEe1eWZDORJ3gHaDP?pid=ImgDet&w=474&h=207&rs=1&o=7&rm=3" width="200" height="200">
 </a><br>
 <br>
